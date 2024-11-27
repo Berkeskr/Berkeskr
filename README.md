@@ -1,4 +1,4 @@
-## <div align="center">I'm Berke, a computer engineering student in Istanbul/Turkey  👨‍💻 </div>  
+## <div align="center">I'm Berke, a computer engineer in Istanbul/Turkey  👨‍💻 </div>  
   
 
 <div align="center">Experiences that I gained from my part-time jobs while I was going to school taught me time management and building work relationships so far. Now, I want to develop my skills which are related to engineering and focus my enthusiasm to become a good engineer and a team player.</div>  
